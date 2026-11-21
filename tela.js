@@ -22,3 +22,6 @@ function limpar(){
     n2.value  =""
     resultado.innerText =""
 }
+function teste(){
+    
+}
