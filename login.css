@@ -1,9 +1,16 @@
-#login{
-    text-align: center;
-    background-color: rgb(245, 235, 235);
-    width: 30%;
-    margin: auto;
+.container{
+text-align: center;
+margin: auto;
+width: 30%;
+}
+#login{  
+background-color: rgb(245, 235, 235);   
+font-family: Arial, Helvetica, sans-serif;
 }
 #login button{
     width: 180px;
+    padding: 3px;
+}
+#login input{
+padding: 3px;
 }
