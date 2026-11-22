@@ -1,0 +1,9 @@
+#login{
+    text-align: center;
+    background-color: rgb(245, 235, 235);
+    width: 30%;
+    margin: auto;
+}
+#login button{
+    width: 180px;
+}
